@@ -10,7 +10,7 @@ Apple's SF Mono font patched with [the Nerd Fonts patcher](https://github.com/ry
 brew tap epk/epk
 
 # Homebrew < 2.6.0
-brew cask install font-sf-mono-nerd-font
+brew install --cask font-sf-mono-nerd-font
 
 # Homebrew >= 2.6.0
 brew install font-sf-mono-nerd-font
